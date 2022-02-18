@@ -2,7 +2,9 @@
 
 >This project was implemented after the React course. This is the first part of the project where a product based on the Marvel api is implemented. In the second part, the implementation of the comics section on characters is expected.
 
-#[Demo on herokuapp.com](https://react-app-based-marvel-api.herokuapp.com/)
+[Demo on herokuapp.com](https://react-app-based-marvel-api.herokuapp.com/)
+
+
 
 ![](https://w-dog.ru/wallpapers/13/6/452937041049319/marvel-studiya-marvel-logotip-minimalizm.jpg)
 
